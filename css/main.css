@@ -1,3 +1,9 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 .work-section{
     display: flex;
     flex-direction: row;
