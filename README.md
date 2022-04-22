@@ -1,7 +1,33 @@
-<<<<<<< HEAD
-# bootcamp-project-02
-Project 02
--portfolio project
-=======
-# css
->>>>>>> 311abb514a4c2abdc043d99c94ecd8af04b21fd0
+### Portfolio ###
+
+  ## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Test](#test)
+* [Questions](#questions)
+
+## Description
+A simple portfolio to show work done in the bootcamp course so far.
+
+## Install 
+Clone the repo and open the index.html in your default brower to view.
+
+## Usage
+N/A
+
+## License
+Public Domain
+
+## Contributors
+Bekim Abedini
+
+## Questions
+
+# Contact
+daabedini22@gmail.com
+
+# Username
+https://github.com/BekimAb 
